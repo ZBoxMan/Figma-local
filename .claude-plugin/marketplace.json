@@ -1,0 +1,1 @@
+{"name":"box-figma-local","owner":{"name":"Box"},"plugins":[{"name":"box-figma-local","source":"./plugins/box-figma-local","description":"Figma 读写走本机插件，不占官方 Figma MCP 限额"}]}
